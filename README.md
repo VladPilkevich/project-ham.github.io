@@ -45,10 +45,4 @@
   <a href="https://vladyslavpilkevych.github.io/project-ham.github.io/" target="_blank">Live Demo</a>
 </p>
 
-<h2>Future Improvements</h2>
-
-<p>
-  In the future, I plan to:
-</p>
-
 <p align="center">Thank you for checking out my first project! 😊</p>
